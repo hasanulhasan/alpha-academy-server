@@ -1,0 +1,38 @@
+[
+  {
+    "id": "01",
+    "name": "C programming",
+    "image": "https://play-lh.googleusercontent.com/Ccj8KpZixnc4hJJjtRM6An33PcL0etqny29_nBKS_gHoy-GyYJ3c6IazLsq87Pt8Jelh",
+    "details": "C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. C programming is an excellent language to learn to program for beginners.Our C tutorials will guide you to learn C programming one step at a time."
+  },
+  {
+    "id": "02",
+    "name": "Machine Learning",
+    "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2021/05/search-engine-machine-learning-60f984e149e45-sej-1280x720.jpg",
+    "details": "Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention."
+  },
+  {
+    "id": "03",
+    "name": "Digital Marketing",
+    "image": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2021/12/Digital-marketing-trends-2022.jpg?auto=format&q=60&w=1860&h=1860&fit=crop&crop=faces",
+    "details": "Digital marketing skills are critical not only for digital marketing professionals but for anyone working in a business with an online presence. This includes entrepreneurs, marketing managers, marketing specialists, and small business owners."
+  },
+  {
+    "id": "04",
+    "name": "Blockchain",
+    "image": "https://miro.medium.com/max/1400/0*IIhIZiYlPSML513a.jpeg",
+    "details": "A blockchain is a permanent, sequential list of transaction records distributed over a network. Each block in the chain contains a hash of the previous block, along with a timestamp and transaction data. This makes the blockchain inherently resistant to attack or manipulation.Blockchain technology is ideal for recording various types of transactions where data is sensitive or targeted by hackers for unauthorized duplication or other fraudulent activity. Bitcoin and other cryptocurrencies use blockchain technology to record transactions. Blockchain for business applications can include recording of contracts, medical records, monetary transactions and much more."
+  },
+  {
+    "id": "05",
+    "name": "Python for backend",
+    "image": "https://cdn.mindmajix.com/courses/python-training.png",
+    "details": "Python is a popular general-purpose programming language known for its easy readability and broad library of tools for work in fields such as data science and web development. The programming language supports multiple paradigms such as functional, procedural, and object-oriented programming (oop) and is comparable to other high-level languages such as Java and JavaScript.With its powerful features, ease of use, and enormous standard library, Python is easily one of the most useful languages in today's software development world."
+  },
+  {
+    "id": "06",
+    "name": "AutoCad",
+    "image": "https://static.wixstatic.com/media/63a546_d06aa2e350354a73aea9c34b24652461~mv2.jpg/v1/fill/w_560,h_356,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/63a546_d06aa2e350354a73aea9c34b24652461~mv2.jpg",
+    "details": "AutoCAD is an ideal digital tool for industrial designers, engineers, and architects. It allows you to fashion 2D and 3D schematics for an infinite variety of solid surface creations and comes in many variations, depending on your needs. From electrical components to entire buildings, you can design anything your imagination comes up with. An AutoCAD course on Udemy can show you how to render designs of all types."
+  }
+]

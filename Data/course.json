@@ -1,0 +1,32 @@
+[
+  {
+    "id": "01",
+    "image": "https://play-lh.googleusercontent.com/Ccj8KpZixnc4hJJjtRM6An33PcL0etqny29_nBKS_gHoy-GyYJ3c6IazLsq87Pt8Jelh",
+    "name": "C programming"
+  },
+  {
+    "id": "02",
+    "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2021/05/search-engine-machine-learning-60f984e149e45-sej-1280x720.jpg",
+    "name": "Machine Learning"
+  },
+  {
+    "id": "03",
+    "image": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2021/12/Digital-marketing-trends-2022.jpg?auto=format&q=60&w=1860&h=1860&fit=crop&crop=faces",
+    "name": "Digital Marketing"
+  },
+  {
+    "id": "04",
+    "image": "https://miro.medium.com/max/1400/0*IIhIZiYlPSML513a.jpeg",
+    "name": "Blockchain"
+  },
+  {
+    "id": "05",
+    "image": "https://cdn.mindmajix.com/courses/python-training.png",
+    "name": "Python for backend"
+  },
+  {
+    "id": "06",
+    "image": "https://static.wixstatic.com/media/63a546_d06aa2e350354a73aea9c34b24652461~mv2.jpg/v1/fill/w_560,h_356,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/63a546_d06aa2e350354a73aea9c34b24652461~mv2.jpg",
+    "name": "AutoCad"
+  }
+]
