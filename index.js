@@ -28,6 +28,12 @@ app.get('/coursepage/:id', (req, res) => {
   res.send(singleCourse);
 })
 
+app.get('/checkout/:id', (req, res) => {
+  const id = req.params.id;
+  const singleCourse = course.find(c => c.id === id);
+  res.send(singleCourse);
+})
+
 
 
 app.listen(port, () => {
