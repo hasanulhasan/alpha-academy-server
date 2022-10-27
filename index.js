@@ -4,7 +4,6 @@ const cors = require('cors');
 const port = process.env.PORT || 5001;
 
 app.use(cors());
-
 const course_category = require('./Data/course.json');
 const course = require('./Data/courseDetails.json')
 
@@ -17,13 +16,13 @@ app.get('/courses', (req, res) => {
 })
 
 app.get('/coursepage/:id', (req, res) => {
-  const id = req.params.id;
+  const id = parseInt(req.params.id);
   const singleCourse = course.find(c => c.id === id);
   res.send(singleCourse);
 })
 
 app.get('/checkout/:id', (req, res) => {
-  const id = req.params.id;
+  const id = parseInt(req.params.id);
   const singleCourse = course.find(c => c.id === id);
   res.send(singleCourse);
 })
