@@ -16,12 +16,6 @@ app.get('/courses', (req, res) => {
   res.send(course_category);
 })
 
-// app.get('/course/:id', (req, res) => {
-//   const id = req.params.id;
-//   const singleCourse = course.find(c => c.id === id);
-//   res.send(singleCourse);
-// })
-
 app.get('/coursepage/:id', (req, res) => {
   const id = req.params.id;
   const singleCourse = course.find(c => c.id === id);
@@ -33,8 +27,6 @@ app.get('/checkout/:id', (req, res) => {
   const singleCourse = course.find(c => c.id === id);
   res.send(singleCourse);
 })
-
-
 
 app.listen(port, () => {
   console.log('using port no--', port);
