@@ -16,13 +16,13 @@ app.get('/courses', (req, res) => {
 })
 
 app.get('/coursepage/:id', (req, res) => {
-  const id = parseInt(req.params.id);
+  const id = req.params.id;
   const singleCourse = course.find(c => c.id === id);
   res.send(singleCourse);
 })
 
 app.get('/checkout/:id', (req, res) => {
-  const id = parseInt(req.params.id);
+  const id = req.params.id;
   const singleCourse = course.find(c => c.id === id);
   res.send(singleCourse);
 })
